@@ -1,4 +1,4 @@
-<h2 align="center">Hi :) ! My name is Edison <br>Welcom to my Github profile</h2>
+<h2 align="center">Hi :) ! My name is Edison <br>Welcome to my Github profile</h2>
 
 ###
 
